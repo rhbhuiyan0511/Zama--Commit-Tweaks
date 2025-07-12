@@ -1,7 +1,6 @@
 # ✅ Complete Guide: How to Do More Than 10 Commits In GitHub Before 10 July
 
-This guide helps you complete **15 GitHub commits on 10 June** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**: [https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19](https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19)
-
+This guide helps you complete **15 GitHub commits on 10 June** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**: [https://x.com/BlackTOM513/status/1944003036319502817](https://x.com/BlackTOM513/status/1944003036319502817)
 ---
 
 ## 🪜 Step-by-Step Instructions
